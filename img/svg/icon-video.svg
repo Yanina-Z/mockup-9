@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>F091FD36-5182-4D02-B27B-2BD34893EE5F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003">
+        <g id="Page-2" transform="translate(-787.000000, -2925.000000)">
+            <g id="Team" transform="translate(0.000000, 2426.000000)">
+                <g id="Social" transform="translate(731.000000, 499.000000)">
+                    <g id="icon-video" transform="translate(56.000000, 0.000000)">
+                        <path d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z" id="Background" fill="#000000"></path>
+                        <path d="M16.8982326,11.7308592 L9.56992189,7.15066496 C9.2741162,6.95982258 8.96400199,6.9502806 8.63956994,7.12203875 C8.32468002,7.29379689 8.16723742,7.56097221 8.16723742,7.92357273 L8.16723742,17.0839612 C8.16723742,17.4465617 8.32468002,17.713737 8.63956994,17.8854951 C8.79224385,17.9618321 8.94014447,18 9.08327626,18 C9.27411864,18 9.43633223,17.9522901 9.56992189,17.8568689 L16.8982326,13.2766747 C17.1844962,13.1144587 17.3276258,12.8568253 17.3276258,12.5037669 C17.3276258,12.1507085 17.1844962,11.8930752 16.8982326,11.7308592 Z" id="Play" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
