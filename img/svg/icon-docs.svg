@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="66px" viewBox="0 0 67 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>EFE7EC04-366E-40D0-838F-F2722955CE02</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-3" transform="translate(-1068.000000, -1328.000000)" stroke="#B875FF" stroke-width="2">
+            <g id="Features" transform="translate(0.000000, 950.000000)">
+                <g id="icon-docs" transform="translate(1069.000000, 379.000000)">
+                    <polygon id="Shape" points="55.1016494 34.357499 55.1016494 5.18603759 9.72382048 5.18603759 9.72382048 34.357499 19.447641 34.357499 19.447641 40.840046 45.3778289 40.840046 45.3778289 34.357499 55.1016494 34.357499"></polygon>
+                    <path d="M19.447641,34.357499 L0,34.357499 L0,60.5713098 C0,62.1997209 1.32249079,63.5289605 2.95386586,63.5289605 L61.871604,63.5289605 C63.5011811,63.5289605 64.8254699,62.2047752 64.8254699,60.5713098 L64.8254699,34.357499 L45.3778289,34.357499 L45.3778289,40.840046 L19.447641,40.840046 L19.447641,34.357499 L19.447641,34.357499 Z" id="Shape" stroke-linejoin="bevel" fill="#F3E7FF"></path>
+                    <rect id="Shape" x="12.1547756" y="0" width="38.8952819" height="5.18603759"></rect>
+                    <polygon id="Shape" stroke-linejoin="bevel" points="9.72382048 34.357499 0 34.357499 1.31208176e-15 34.0929053 0.516436722 34.0929053 9.72382048 22.2995135"></polygon>
+                    <polygon id="Shape" stroke-linejoin="bevel" points="55.1016494 21.5937929 64.3367264 34.0929053 64.8254699 34.0929053 64.8254699 34.357499 55.1016494 34.357499 55.1016494 21.5937929"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

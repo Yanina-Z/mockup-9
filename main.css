@@ -43,6 +43,19 @@ h4 {
 p {
   font-size: 18px;
   font-weight: normal;
+  line-height: 1.44;
+}
+
+.is-big {
+  font-size: 72px;
+}
+
+.is-small {
+  font-size: 16px;
+}
+
+.is-gray {
+  color: #666;
 }
 
 a {
@@ -91,15 +104,23 @@ input {
   margin-right: 30px;
   padding-left: 20px;
 }
-/**************** SLIDE 1 *****************/
+
+.bg-gray{
+  background-color: #f8f9fb;
+}
+/**************** SLIDE 1 / slide-1A *****************/
 
 .slide-1 {
-  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
-                    url(img/png/image-header.png);
-  background-size: cover;
   color: white;
   overflow: auto;
 }
+
+.slide-1{
+  background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
+                    url(img/png/image-header.png);
+  background-size: cover;
+}
+
 
 .slide-1 a {
   color: #fff;
@@ -107,6 +128,7 @@ input {
   display: inline-flex;
   align-items: center;
 }
+
 
 header {
   margin-top: 30px;
@@ -157,8 +179,68 @@ img.down {
   margin: 54px auto 40px;
 }
 
+/*slide-1a*//*__________________*/
 
-/************** SLIDE-2 **************/
+.slide-1a {
+  color: #fff;
+  overflow: hidden;
+}
+
+.slide-1a a{
+  color: #fff;
+  font-size: 18px;
+}
+
+.slide-1a {
+  background-color: #473bb1;
+  max-height: 950px;
+}
+
+.slide-1a .content {
+  display: flex;
+  padding-top: 80px;
+}
+
+.slide-1a .left {
+  margin-right: 230px;
+}
+
+.iphone {
+  display: block;
+}
+
+.slide-1a .content .right {
+  max-width: 330px;
+}
+
+.app {
+  padding: 98px 0 45px;
+}
+
+.slide-1a h4 {
+  margin-top: 22px;
+}
+
+.get {
+  display: inline-block;
+  border-radius: 3px;
+  margin-top: 40px;
+}
+
+.slide-1a .container {
+  position: relative;
+}
+
+img.down2 {
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -12px;
+  margin-top: -40px;
+}
+
+/************** SLIDE-2/ slide-2a **************/
 
 .header-2 {
   display: flex;
@@ -198,6 +280,64 @@ a.write-to-me img {
   margin-left: 93px;
 }
 
+/*____________slide2a____________*/
+
+.slide-2a {
+  text-align: center;
+}
+
+.header-5 {
+  margin: 100px auto 76px;
+}
+
+.slide-2a .content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cell {
+  padding: 80px 86px;
+}
+
+.slide-2a .cell {
+  flex: 1;
+  align-self: stretch;
+  border: 1px solid #ddd;
+  border-right-width: 0;
+}
+
+.cell:nth-child(-n+3) {
+  border-bottom: 0;
+}
+
+.cell:nth-child(3n) {
+  border-right-width: 1px;
+}
+
+
+.slide-2a {
+  color: #666;
+}
+
+.slide-2a p.info {
+  min-height: 80px;
+  min-width: 200px;
+}
+
+.slide-2a h1 {
+  padding-right: 10px;
+  color: #000;
+}
+
+.slide-2a h4 {
+  margin: 20px auto 45px;
+}
+
+.slide-2a .learn-more {
+  margin: 85px auto 75px;
+}
+
 /************ SLIDE-3 ************/
 
 .slide-3 {
@@ -229,11 +369,71 @@ a.write-to-me img {
   left: -66px;
 }
 
-/************* SLIDE-4 *************/
 
-.slide-4 {
-  background-color: #f8f9fb;
+/************ slide3a ***************/
+
+.slide-3a .content {
+  display: flex;
+  padding-top: 115px;
 }
+
+
+.max_21 {
+  display: flex;
+  padding-top: 46px;
+}
+
+.max_21 p span {
+  display: block;
+  padding-top: 17px;
+}
+
+.max_21 p{
+  margin: 0;
+  padding-left: 27px;
+}
+
+.slide-3a .part-left  {
+  padding-right: 80px;
+  padding-top: 80px;
+}
+
+.avatar {
+  width: 68px;
+  height: 68px;
+}
+
+.drop-us {
+  padding: 15px 27px;
+  display: inline-block;
+  margin-top: 43px;
+}
+
+.stats {
+  display: flex;
+  text-align: center;
+  margin-top: 118px;
+}
+
+.stats .center,
+.stats .left,
+.stats .right {
+  padding: 35px;
+  flex: 1;
+}
+
+.is-big span.is-small {
+  display: block;
+  margin: 15px auto 25px;
+}
+
+.slide-3a .up {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+/************* SLIDE-4 *************/
 
 .header-4 {
   padding-top: 130px;
@@ -354,4 +554,60 @@ footer .container {
 footer a {
   color: #666;
   padding-right: 20px;
+}
+
+/******** FOOTER-2 ***********/
+
+footer.page-2 .container {
+  border: none;
+  display: block;
+}
+
+.contact-us {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 60px;
+}
+
+footer.page-2 p{
+  margin: 0;
+}
+
+.store {
+  color: #fff;
+  background-color: #000;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  min-width: 162px;
+  border-radius: 3px;
+  display: inline-block;
+  text-align: center;
+  padding-right: 0;
+}
+
+a.store {
+  font-size: 18px;
+}
+
+.app-store {
+  margin-right: 10px;
+}
+
+footer.page-2 .right{
+  display: flex;
+}
+
+.to-share {
+  padding-left: 38px;
+}
+
+.closer {
+  padding-right: 17px;
+}
+
+.made-by {
+  text-align: center;
+  border-top: 1px solid #ddd;
+  padding-top: 58px;
 }
